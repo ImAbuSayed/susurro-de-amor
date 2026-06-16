@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurro-de-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Susurro de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-de-amor/) |
+| **Get License** | [Request Licensing for Susurro de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-de-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esta noche la calle respira tu nombre y me invita a pecar
+> Tú me miras de lejos, mami, yo ya sé cómo va a terminar
+> Tus labios, mi veneno, un susurro que me incita a volar
+> No hay salida, mi nena, en tu fuego me quiero quemar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
