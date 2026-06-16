@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Susurro de amor
+
+This log tracks the cryptographic history and versioning for the song **Susurro de amor** (susurro-de-amor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T15:11:08.106622 | `v1` | `ecfe32fab7f1a1ba101836d74cdeaa89d30a4e3cbe5d73c3392ee09b4d223c8b` | `29cb27ad37c1d283ea1dfc9c29bd93b5c30aa9f9d27510999a141a2f8194aaa7` | `2026-06-16_susurro-de-amor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
